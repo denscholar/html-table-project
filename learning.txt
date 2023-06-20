@@ -1,0 +1,15 @@
+Learning guide for today:
+
+1. CSS Typography
+    a. Css font properties
+    b. safe fonts, custom fonts and stack fonts
+    c. units to use in Typography
+    d. cdd line height and vertical margins
+    d. style your page's Typography
+    font-size, font-weight, font-style
+
+    css seletors 
+
+    Project
+
+- Learn CSS Layout
